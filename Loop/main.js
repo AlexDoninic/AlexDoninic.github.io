@@ -146,12 +146,7 @@ window.boot = function () {
             jsList = [bundledScript];
         }
     }
-
-    // ANYS scripts
-    if (cc.sys.isNative && cc.sys.isMobile) {
-        jsList = jsList.concat(['src/ANYS/jsb_ANYS.js', 'src/ANYS/jsb_ANYS_constants.js']);
-    }
-
+    
     var option = {
         id: 'GameCanvas',
         scenes: settings.scenes,
@@ -186,7 +181,7 @@ if (false) {
     qqPlayDownloader.REMOTE_SERVER_ROOT = "";
     var prevPipe = cc.loader.md5Pipe || cc.loader.assetLoader;
     cc.loader.insertPipeAfter(prevPipe, qqPlayDownloader);
-
+    
     window.boot();
 }
 else if (window.jsb) {
