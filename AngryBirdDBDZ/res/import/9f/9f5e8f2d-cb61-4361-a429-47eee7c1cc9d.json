@@ -1,0 +1,1 @@
+{"__type__":"cc.JsonAsset","_name":"bird","json":{"bird":[{"id":"200","name":"redbird","icon1":"redbird","icon2":"redbird","price":"0","isOpen":true},{"id":"201","name":"yellowbird","icon1":"yellowbird","icon2":"yellowbird","price":"5000","isOpen":true},{"id":"202","name":"blackbird","icon1":"blackbird","icon2":"blackbird","price":"5000","isOpen":false}]}}
