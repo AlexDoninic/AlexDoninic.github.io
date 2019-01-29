@@ -74,18 +74,20 @@
     document.body.appendChild(cocos2d);
 })();
 </script>
-<script type="text/javascript"  src="https://static.g.mi.com/game/h5sdk/h5-dj-sdk-v.1.0.min.js"></script>
 
+<script type="text/javascript"  src="https://static.g.mi.com/game/h5sdk/h5-dj-sdk-v.1.0.min.js"></script>
 <script>
-  var da = null
-  window.hy_dj_sdk.ready({
-  zIndex:9999,
-  pin:0,
-  },function(){
-    da = hy_dj_sdk.getBaseData()
-    console.log("收到数据")
-      //sdk已经加载完成，可执行游戏的初始化逻辑
-  })
+  var dt = null;
+  window.hy_dj_sdk.ready(config,function(){
+    Display:true,
+    Zindex:9999,
+    Pin:1,
+    JumpPage:true,
+}, function(){
+  dt = window.hy_dj_sdk.getBaseData();
+  console.log("接收到数据");
+})
 </script>
+
 </body>
 </html>
