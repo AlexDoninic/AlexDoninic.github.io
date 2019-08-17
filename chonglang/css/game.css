@@ -1,0 +1,14 @@
+@font-face {
+    font-family: myFont1;
+    src: url('stan0753.eot?#iefix') format('embedded-opentype'), url('stan0753.ttf') format('truetype');
+}
+
+
+/*
+// performance issue
+
+@font-face {
+    font-family: HelveticaNeueBold;
+    src: url(HelveticaNeue-CondensedBold.otf);
+}
+*/
