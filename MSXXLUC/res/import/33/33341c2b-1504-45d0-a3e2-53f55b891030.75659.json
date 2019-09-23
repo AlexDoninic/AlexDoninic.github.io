@@ -1,0 +1,47 @@
+{
+  "__type__": "cc.JsonAsset",
+  "_name": "skin",
+  "json": {
+    "skin": [
+      {
+        "skinId": 5,
+        "name": "篠原明里",
+        "price": 0,
+        "skinRuneType": 1,
+        "bonusList": []
+      },
+      {
+        "skinId": 6,
+        "name": "澄田花苗",
+        "price": 5000,
+        "skinRuneType": 2,
+        "bonusList": [
+          [
+            1,
+            5
+          ],
+          [
+            2,
+            5
+          ]
+        ]
+      },
+      {
+        "skinId": 7,
+        "name": "远野樱",
+        "price": 8000,
+        "skinRuneType": 3,
+        "bonusList": [
+          [
+            1,
+            10
+          ],
+          [
+            2,
+            10
+          ]
+        ]
+      }
+    ]
+  }
+}
