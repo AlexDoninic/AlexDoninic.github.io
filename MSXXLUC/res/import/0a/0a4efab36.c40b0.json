@@ -5142,8 +5142,8 @@
       },
       "_scale": {
         "__type__": "cc.Vec3",
-        "x": 0.3497536945812806,
-        "y": 0.3497536945812806,
+        "x": 0.3497536945812803,
+        "y": 0.3497536945812803,
         "z": 1
       },
       "autoReleaseAssets": false
@@ -38121,8 +38121,8 @@
       ],
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 300,
-        "height": 95
+        "width": 360,
+        "height": 120
       },
       "_position": {
         "__type__": "cc.Vec3",
@@ -38179,7 +38179,8 @@
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "x": 23
+        "x": 23,
+        "y": 5
       }
     },
     {
@@ -38207,7 +38208,8 @@
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "x": -90
+        "x": -101,
+        "y": 5
       }
     },
     {
@@ -38801,8 +38803,8 @@
       ],
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 300,
-        "height": 95
+        "width": 360,
+        "height": 120
       },
       "_position": {
         "__type__": "cc.Vec3",
@@ -38830,6 +38832,8 @@
           },
           "_string": "双倍领取",
           "_N$string": "双倍领取",
+          "_fontSize": 42,
+          "_lineHeight": 50,
           "_N$horizontalAlign": 1,
           "_N$verticalAlign": 1
         },
@@ -38854,12 +38858,13 @@
       },
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 162,
-        "height": 40
+        "width": 170,
+        "height": 50
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "x": 23
+        "x": 23,
+        "y": 5
       }
     },
     {
@@ -38887,7 +38892,7 @@
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "x": -89,
+        "x": -106,
         "y": 5
       }
     },
@@ -44586,8 +44591,8 @@
       ],
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 300,
-        "height": 95
+        "width": 360,
+        "height": 120
       },
       "_position": {
         "__type__": "cc.Vec3",
@@ -44615,6 +44620,8 @@
           },
           "_string": "双倍获得",
           "_N$string": "双倍获得",
+          "_fontSize": 42,
+          "_lineHeight": 50,
           "_N$horizontalAlign": 1,
           "_N$verticalAlign": 1
         },
@@ -44639,12 +44646,13 @@
       },
       "_contentSize": {
         "__type__": "cc.Size",
-        "width": 162,
-        "height": 40
+        "width": 170,
+        "height": 50
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "x": 31
+        "x": 31,
+        "y": 5
       }
     },
     {
@@ -44672,7 +44680,8 @@
       },
       "_position": {
         "__type__": "cc.Vec3",
-        "x": -82
+        "x": -102,
+        "y": 5
       }
     },
     {

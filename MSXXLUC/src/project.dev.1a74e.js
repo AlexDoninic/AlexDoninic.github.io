@@ -352,7 +352,7 @@ window.__require = function e(t, n, r) {
         ShowBannerAds: function ShowBannerAds() {
           var _this = this;
           if (false == this.openAds) return;
-          if (false == this.qgAdsOK) return;
+          if ("qg_oppo" == this.platform && false == this.qgAdsOK) return;
           var self = this;
           this.resizeTime = 0;
           if ("qg_oppo" == this.platform) {
