@@ -1,0 +1,40 @@
+
+Bullet.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 172, 5
+  size: 48, 57
+  orig: 50, 59
+  offset: 1, 1
+  index: -1
+2
+  rotate: true
+  xy: 2, 2
+  size: 60, 69
+  orig: 62, 71
+  offset: 1, 1
+  index: -1
+canh phai
+  rotate: false
+  xy: 123, 4
+  size: 47, 58
+  orig: 49, 60
+  offset: 1, 1
+  index: -1
+canh trai
+  rotate: false
+  xy: 73, 4
+  size: 48, 58
+  orig: 50, 60
+  offset: 1, 1
+  index: -1
+icon
+  rotate: false
+  xy: 222, 27
+  size: 35, 35
+  orig: 37, 37
+  offset: 1, 1
+  index: -1

@@ -1,0 +1,138 @@
+
+W_1.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+O phai 1
+  rotate: false
+  xy: 1825, 108
+  size: 99, 87
+  orig: 101, 89
+  offset: 1, 1
+  index: -1
+O phai 2
+  rotate: false
+  xy: 1067, 160
+  size: 221, 94
+  orig: 223, 96
+  offset: 1, 1
+  index: -1
+O phai 3
+  rotate: false
+  xy: 576, 172
+  size: 273, 82
+  orig: 275, 84
+  offset: 1, 1
+  index: -1
+O phai 4
+  rotate: false
+  xy: 2, 57
+  size: 285, 197
+  orig: 287, 199
+  offset: 1, 1
+  index: -1
+O trai 1
+  rotate: false
+  xy: 1290, 6
+  size: 99, 87
+  orig: 101, 89
+  offset: 1, 1
+  index: -1
+O trai 2
+  rotate: false
+  xy: 1067, 64
+  size: 221, 94
+  orig: 223, 96
+  offset: 1, 1
+  index: -1
+O trai 3
+  rotate: false
+  xy: 576, 88
+  size: 273, 82
+  orig: 275, 84
+  offset: 1, 1
+  index: -1
+O trai 4
+  rotate: false
+  xy: 289, 57
+  size: 285, 197
+  orig: 287, 199
+  offset: 1, 1
+  index: -1
+phai 1
+  rotate: true
+  xy: 1231, 2
+  size: 60, 52
+  orig: 62, 54
+  offset: 1, 1
+  index: -1
+phai 2
+  rotate: false
+  xy: 1290, 95
+  size: 133, 57
+  orig: 135, 59
+  offset: 1, 1
+  index: -1
+phai 3
+  rotate: false
+  xy: 2, 6
+  size: 162, 49
+  orig: 164, 51
+  offset: 1, 1
+  index: -1
+phai 4
+  rotate: false
+  xy: 1483, 136
+  size: 169, 118
+  orig: 171, 120
+  offset: 1, 1
+  index: -1
+thanh giua
+  rotate: true
+  xy: 1290, 154
+  size: 100, 191
+  orig: 102, 193
+  offset: 1, 1
+  index: -1
+thanh phai
+  rotate: true
+  xy: 851, 129
+  size: 125, 214
+  orig: 127, 216
+  offset: 1, 1
+  index: -1
+thanh trai
+  rotate: true
+  xy: 851, 2
+  size: 125, 214
+  orig: 127, 216
+  offset: 1, 1
+  index: -1
+trai 1
+  rotate: false
+  xy: 1960, 202
+  size: 60, 52
+  orig: 62, 54
+  offset: 1, 1
+  index: -1
+trai 2
+  rotate: false
+  xy: 1825, 197
+  size: 133, 57
+  orig: 135, 59
+  offset: 1, 1
+  index: -1
+trai 3
+  rotate: false
+  xy: 1067, 13
+  size: 162, 49
+  orig: 164, 51
+  offset: 1, 1
+  index: -1
+trai 4
+  rotate: false
+  xy: 1654, 136
+  size: 169, 118
+  orig: 171, 120
+  offset: 1, 1
+  index: -1

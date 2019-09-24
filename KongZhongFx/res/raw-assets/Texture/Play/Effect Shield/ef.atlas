@@ -1,0 +1,26 @@
+
+ef.png
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+1
+  rotate: false
+  xy: 214, 2
+  size: 210, 210
+  orig: 212, 212
+  offset: 1, 1
+  index: -1
+2
+  rotate: false
+  xy: 214, 2
+  size: 210, 210
+  orig: 212, 212
+  offset: 1, 1
+  index: -1
+vong chinh
+  rotate: false
+  xy: 2, 2
+  size: 210, 210
+  orig: 212, 212
+  offset: 1, 1
+  index: -1
